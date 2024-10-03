@@ -1,0 +1,18 @@
+{
+    "name": "ddomori/test",
+    "description": "test de paquete composer",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ddomori\\Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "dario.do.z",
+            "email": "dario.do@gmail.com"
+        }
+    ],
+    "require": {}
+}
